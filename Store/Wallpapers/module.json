@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "wallpaper",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "wallpapers": [
+    {
+      "title": "Bioluminescent Forest Waterfall Glade",
+      "file": "wallpapers/bioluminescent-forest-waterfall-glade.png"
+    },
+    {
+      "title": "Bioluminescent Reef Sanctuary",
+      "file": "wallpapers/bioluminescent-reef-sanctuary.png"
+    },
+    {
+      "title": "Crimson Moonlit Temple and Misty Mountains",
+      "file": "wallpapers/crimson-moonlit-temple-and-misty-mountains.png"
+    },
+    {
+      "title": "Moonlit Sakura Citadelscape",
+      "file": "wallpapers/moonlit-sakura-citadelscape.png"
+    },
+    {
+      "title": "Neon Cherry Blossom Gaming Landscape",
+      "file": "wallpapers/neon-cherry-blossom-gaming-landscape.png"
+    },
+    {
+      "title": "Neon Cyber Gaming Sanctuary",
+      "file": "wallpapers/neon-cyber-gaming-sanctuary.png"
+    },
+    {
+      "title": "Sunset Serenity Over the Mountain Lake",
+      "file": "wallpapers/sunset-serenity-over-the-mountain-lake.png"
+    }
+  ]
+}

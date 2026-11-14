@@ -1,4 +1,16 @@
 {
   "schemaVersion": 1,
-  "modules": []
+  "modules": [
+    {
+      "id": "wallpaper",
+      "title": "Wallpaper",
+      "description": "Original wallpapers, gradients, your own images and live video loops with MotionBgs streaming previews.",
+      "versionCode": 3,
+      "versionName": "1.0.2",
+      "minLauncherCode": 4,
+      "url": "https://raw.githubusercontent.com/OGSmuggy/OG-Orbit/main/Store/Wallpapers/wallpaper-1.0.2.zip",
+      "sha256": "f466c6da7cbb0c4ad6f9511437ccb9045e60ecc56ace9c13b82a81e90a544033",
+      "size": 13059122
+    }
+  ]
 }

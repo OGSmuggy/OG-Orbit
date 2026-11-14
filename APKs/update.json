@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "com.ogs.tvhome",
-  "versionCode": 3,
-  "versionName": "0.1.1",
+  "versionCode": 4,
+  "versionName": "0.2.0",
   "minSdk": 26,
-  "apkUrl": "https://github.com/OGSmuggy/OG-Orbit/releases/download/v0.1.1/OG-Orbit-0.1.1.apk",
-  "sha256": "cb8a24739fcc0b4f819774f1f812c5eb1645c0d28ac5dacc8326ec7fbb2aa12e",
-  "sizeBytes": 2036244,
-  "releaseNotes": "Small UI fix for the Store and About pages.\n\n- Removed the shadow from button labels.\n- Switched to a regular font and centered the text.\n- Applied the same style to the update controls.\n\nTo try the updater from 0.1.0, open About > Updates > Check for updates. Choose Download and install now, or download it for your next device restart.\n\nAndroid will ask you to confirm the installation. The first update may also ask you to allow installs from OG Orbit.\n\nThe APK has passed the build and signing checks. The on-TV text check and full in-app update test are still pending.\n"
+  "apkUrl": "https://github.com/OGSmuggy/OG-Orbit/releases/download/v0.2.0/OG-Orbit-0.2.0.apk",
+  "sha256": "8ad93d7c7f350107827ac77e554f86cf2b01c0d6371b44f1d3c3e34c16e71e80",
+  "sizeBytes": 2077206,
+  "releaseNotes": "Download the update and confirm Android's installation prompt. For wallpapers, open Store > Wallpaper > Install."
 }

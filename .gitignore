@@ -1,7 +1,6 @@
 *
 !.gitignore
 !README.md
-!RELEASE_NOTES.md
 !APKs/
 !APKs/*.apk
 !APKs/update.json
@@ -9,8 +8,16 @@
 !Updates/
 !Updates/latest.json
 !Store/
-!Store/**
+!Store/catalogue.json
+!Store/*/
+!Store/*/README.md
+!Store/Wallpapers/module.json
+!Store/Wallpapers/wallpaper-1.0.2.zip
 *.java
+*.kt
+*.kts
+*.cpp
+*.h
 *.class
 *.dex
 *.keystore
