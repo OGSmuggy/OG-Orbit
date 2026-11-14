@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "com.ogs.tvhome",
-  "versionCode": 2,
-  "versionName": "0.1.0",
+  "versionCode": 3,
+  "versionName": "0.1.1",
   "minSdk": 26,
-  "apkUrl": "https://github.com/OGSmuggy/OG-Orbit/releases/download/v0.1.0/OG-Orbit-0.1.0.apk",
-  "sha256": "65060beb271ecaf3fe737f8dbe034018a3557ae8c9e6ba37232e199a9c67b1c6",
-  "sizeBytes": 2036245,
-  "releaseNotes": "First public build of OG Orbit.\n\nThe base launcher has a favourites dock, an app grid and a live preview menu with Store, About and Backup.\n\nThis release adds GitHub update checks when the launcher starts. Choose to install straight away or download now and install after your next device restart. Tick \"Remember my option\" to save your choice. You can change it under About > Updates.\n\nAndroid asks for permission before installing an update. Updating keeps your apps, layout and existing Home selection. If a device clears its Home selection, OG Orbit opens the normal Home picker when it next runs.\n\nThe Store is empty for now. Optional modules, themes and icon packs are coming later.\n\nTested on Chromecast with Google TV HD running Android 14. Other Android TV devices have not been tested yet."
+  "apkUrl": "https://github.com/OGSmuggy/OG-Orbit/releases/download/v0.1.1/OG-Orbit-0.1.1.apk",
+  "sha256": "cb8a24739fcc0b4f819774f1f812c5eb1645c0d28ac5dacc8326ec7fbb2aa12e",
+  "sizeBytes": 2036244,
+  "releaseNotes": "Small UI fix for the Store and About pages.\n\n- Removed the shadow from button labels.\n- Switched to a regular font and centered the text.\n- Applied the same style to the update controls.\n\nTo try the updater from 0.1.0, open About > Updates > Check for updates. Choose Download and install now, or download it for your next device restart.\n\nAndroid will ask you to confirm the installation. The first update may also ask you to allow installs from OG Orbit.\n\nThe APK has passed the build and signing checks. The on-TV text check and full in-app update test are still pending.\n"
 }
