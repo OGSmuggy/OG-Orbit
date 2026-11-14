@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.ogs.tvhome",
+  "versionCode": 2,
+  "versionName": "0.1.0",
+  "minSdk": 26,
+  "apkUrl": "https://github.com/OGSmuggy/OG-Orbit/releases/download/v0.1.0/OG-Orbit-0.1.0.apk",
+  "sha256": "65060beb271ecaf3fe737f8dbe034018a3557ae8c9e6ba37232e199a9c67b1c6",
+  "sizeBytes": 2036245,
+  "releaseNotes": "First public build of OG Orbit.\n\nThe base launcher has a favourites dock, an app grid and a live preview menu with Store, About and Backup.\n\nThis release adds GitHub update checks when the launcher starts. Choose to install straight away or download now and install after your next device restart. Tick \"Remember my option\" to save your choice. You can change it under About > Updates.\n\nAndroid asks for permission before installing an update. Updating keeps your apps, layout and existing Home selection. If a device clears its Home selection, OG Orbit opens the normal Home picker when it next runs.\n\nThe Store is empty for now. Optional modules, themes and icon packs are coming later.\n\nTested on Chromecast with Google TV HD running Android 14. Other Android TV devices have not been tested yet."
+}
