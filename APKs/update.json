@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "com.ogs.tvhome",
-  "versionCode": 4,
-  "versionName": "0.2.0",
+  "versionCode": 6,
+  "versionName": "0.3.0",
   "minSdk": 26,
-  "apkUrl": "https://github.com/OGSmuggy/OG-Orbit/releases/download/v0.2.0/OG-Orbit-0.2.0.apk",
-  "sha256": "8ad93d7c7f350107827ac77e554f86cf2b01c0d6371b44f1d3c3e34c16e71e80",
-  "sizeBytes": 2077206,
-  "releaseNotes": "Download the update and confirm Android's installation prompt. For wallpapers, open Store > Wallpaper > Install."
+  "apkUrl": "https://github.com/OGSmuggy/OG-Orbit/releases/download/v0.3.0/OG-Orbit-0.3.0.apk",
+  "sha256": "8a8d81d9e0722a01fa79d24e7b86aa0399b89e646764b68030e2e6e1d4ae013c",
+  "sizeBytes": 2159125,
+  "releaseNotes": "Download the APK and confirm Android's installation prompt. Keep the existing installation to retain your settings. Open Store to install optional modules.\n"
 }

@@ -25,3 +25,9 @@
 *.ps1
 *.py
 *.sh
+!Store/Modules/layout-1.0.0.zip
+!Store/Icons/icons-1.0.0.zip
+!Store/Screensavers/screensaver-1.0.0.zip
+!Store/Modules/widgets-1.0.0.zip
+!Store/Modules/preview-1.0.0.zip
+!Store/Modules/discover-1.0.0.zip

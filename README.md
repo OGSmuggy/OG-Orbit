@@ -2,18 +2,18 @@
 
 A launcher for Android TV by OGSmuggy.
 
-## Install
+## Install and update
 
-Download the APK from [Releases](https://github.com/OGSmuggy/OG-Orbit/releases), install it on your TV and select OG Orbit as your Home app.
+Download the APK from [Releases](https://github.com/OGSmuggy/OG-Orbit/releases), install it on your TV and select OG Orbit as Home.
 
-## Update
+For an existing installation, open About > Updates > Check for updates, choose when to install and confirm Android's prompt. Keep the existing installation to retain your settings.
 
-Open About > Updates > Check for updates. Choose when to install, then confirm Android's installation prompt. Keep the existing installation to retain your settings.
+## Store
 
-## Wallpapers
+Open Store, choose a module and select Install. Its tile appears in the preview menu. Open that tile to customise it. Apply saves a preview; Back cancels an unapplied choice.
 
-Open Store > Wallpaper > Install. The Wallpaper tile will then appear in the preview menu.
+Available modules are Wallpaper, Layout Customiser, Icon Packs, Screensavers, Widgets & Cards, Preview Customiser and Discover. Modules other than Wallpaper require OG Orbit 0.3.0 or newer.
 
-Select a wallpaper to preview it and choose Apply to save it. Back discards an unapplied preview. In Live Wallpapers, select a MotionBgs thumbnail to stream a preview; Download saves it to your collection.
+In Live Wallpapers, select a MotionBgs thumbnail to stream a preview. Download saves it to your collection. For automatic screensavers, choose OG Orbit in your TV's Android screensaver settings.
 
 For help, open an issue with your TV model, Android version and a description of the problem.

@@ -4,13 +4,79 @@
     {
       "id": "wallpaper",
       "title": "Wallpaper",
-      "description": "Original wallpapers, gradients, your own images and live video loops with MotionBgs streaming previews.",
+      "description": "Collections, live wallpapers, gradients and your own images.",
       "versionCode": 3,
       "versionName": "1.0.2",
       "minLauncherCode": 4,
       "url": "https://raw.githubusercontent.com/OGSmuggy/OG-Orbit/main/Store/Wallpapers/wallpaper-1.0.2.zip",
-      "sha256": "f466c6da7cbb0c4ad6f9511437ccb9045e60ecc56ace9c13b82a81e90a544033",
-      "size": 13059122
+      "size": 13059122,
+      "sha256": "f466c6da7cbb0c4ad6f9511437ccb9045e60ecc56ace9c13b82a81e90a544033"
+    },
+    {
+      "id": "layout",
+      "title": "Layout Customiser",
+      "description": "Arrange your apps, folders, dock and grid.",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "minLauncherCode": 6,
+      "url": "https://raw.githubusercontent.com/OGSmuggy/OG-Orbit/main/Store/Modules/layout-1.0.0.zip",
+      "size": 246,
+      "sha256": "56f4424ddf393e438e30976199444371ce52bc7c2ec6f9876cc05399e51b95be"
+    },
+    {
+      "id": "icons",
+      "title": "Icon Packs",
+      "description": "Choose banner or icon styles and import your own icon packs.",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "minLauncherCode": 6,
+      "url": "https://raw.githubusercontent.com/OGSmuggy/OG-Orbit/main/Store/Icons/icons-1.0.0.zip",
+      "size": 251,
+      "sha256": "7e75be4d4ca29ce758e04fa75ab4468bc52e4ddec35762613a8fc53e14330af8"
+    },
+    {
+      "id": "screensaver",
+      "title": "Screensavers",
+      "description": "Set a clock screensaver and customise its appearance.",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "minLauncherCode": 6,
+      "url": "https://raw.githubusercontent.com/OGSmuggy/OG-Orbit/main/Store/Screensavers/screensaver-1.0.0.zip",
+      "size": 229,
+      "sha256": "dd73a15e070747ac0bfd20c4ce4ddb12d2276760711a6f164eb62afe6047e85b"
+    },
+    {
+      "id": "widgets",
+      "title": "Widgets & Cards",
+      "description": "Clock, date, weather, calendar and device cards, with appearance and placement controls.",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "minLauncherCode": 6,
+      "url": "https://raw.githubusercontent.com/OGSmuggy/OG-Orbit/main/Store/Modules/widgets-1.0.0.zip",
+      "size": 230,
+      "sha256": "123eaedbd6effc2ab14fb7637257e026996734d5842f536896e4731e8153a744"
+    },
+    {
+      "id": "preview",
+      "title": "Preview Customiser",
+      "description": "Change the preview window size, position, frame and background.",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "minLauncherCode": 6,
+      "url": "https://raw.githubusercontent.com/OGSmuggy/OG-Orbit/main/Store/Modules/preview-1.0.0.zip",
+      "size": 239,
+      "sha256": "90e365651256fdcda4c907e02a9ee033cbeb581ab2bd17699b2c9d83950ec7f0"
+    },
+    {
+      "id": "discover",
+      "title": "Discover",
+      "description": "Customise Discover sources, cards, placement and scrolling.",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "minLauncherCode": 6,
+      "url": "https://raw.githubusercontent.com/OGSmuggy/OG-Orbit/main/Store/Modules/discover-1.0.0.zip",
+      "size": 217,
+      "sha256": "8e4df434ad64d8c55bf60b4d6905d12ec73a652582e54c9c70cfc3db088d5252"
     }
   ]
 }
